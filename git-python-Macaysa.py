@@ -1,3 +1,7 @@
 print("Marc Angelo M. Macaysa")
 print("Masiga, Gasan, Marinduque")
 print("September 9, 2002")
+print("Marinduque State College")
+print("Bachelor of Science in Information Technology")
+print("Second Year College")
+print("Section A")
